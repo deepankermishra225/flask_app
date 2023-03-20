@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+flaskvenv/
+.idea/
+__pycache__/
+.DS_Store
